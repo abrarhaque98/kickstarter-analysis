@@ -5,5 +5,7 @@
 
 ### Analysis and Challenges
 
->
+> #### **Initial Analysis**
+> 
+![image](https://user-images.githubusercontent.com/85713568/131398225-78ccb86c-33ec-4e1f-a319-f8876ff4562b.png)
 
