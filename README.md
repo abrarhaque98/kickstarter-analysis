@@ -18,6 +18,9 @@
 >![image](https://user-images.githubusercontent.com/85713568/131399938-e57e9607-aeaa-47eb-a5f7-66fd0bb64f27.png)
 >![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85713568/131399987-40cdd7c7-2a9f-4286-b6ba-59841f4414b5.png)
 
+>##### **Challenges**
+>Some challenges were encountered throughout the analysis, the first being the epoch date to human readable date conversion, to address the issue a careful conversion of epoch date to a readable timestamp had to be undergone. Another difficulty encountered was for the second analysis when performing the countif functions. The countif functions had to be written in such a way where it would only count the data if it included the play subset and not just all campaign subsets so additional formatting was required. To adjust the counts in order to only count the plays the countif function contained 'Data '!R:R,"plays" as the condition necessary to sort for only plays. 
+
 
 
 
