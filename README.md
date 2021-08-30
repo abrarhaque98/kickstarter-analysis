@@ -29,5 +29,6 @@
 ### Results 
 
 > With the visualization of the Theater Outcomes by Launch Date and Outcomes based on Goals some conclusions can be made. For the first analysis, it appears that the greatest absolute number of successful theater outcomes were launched in the month of May with the number slowly decreasing throughout the year. So based of this chart someone wanting to launch their campaign in theater may want to wait until May. From the chart it also seems that the lowest amount of successful theater outcomes was in December so to avoid a failed project someone would avoid launching their campaign in December.
+> 
 > In the Outcomes Based on Goals chart the percentage of successful campaigns is at its peak when the goal is under 1,000 with the next peak at 1,000 to 4,999 with the second largest peak plataeuing from 35,000 to 45,000. Campaigns with a goal above 45,000 seem to have a low rate of success under 20%. When it comes to setting a goal for a project a person looking to launch a campaign under the play subcategory may want to keep their goals under 5,000 or between 35,000 to 45,000,
 
