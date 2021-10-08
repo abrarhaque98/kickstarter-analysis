@@ -5,7 +5,7 @@
 
 ### Analysis and Challenges
 
-> ##### **Initial Analysis**
+> ##### Initial Analysis
 > The initial analysis was to visualize the outcomes of other campaigns by their launch date. To begin the launch date data was provided in epoch timestamps so it had to be converted into standard human readable dates. For example if if Cell J1 read 1434931811 the conversion to a readable timestamp would be =(((J2/60)/60)/24)+DATE(1970,1,1). To extract the year the year function was used on the resulting readable timestamp. 
 > Next the data was ready to be sorted into a pivot table as displayed below, the data was filtered to only include campaigns with the parent category of theater and by year. Further more the pivot table was viewed as months of the year by outcomes (successful, failed, and canceled). The counts of the outcomes in each month of the year was then displayed.
 > 
